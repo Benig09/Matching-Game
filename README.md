@@ -4,7 +4,7 @@ A Flash game developed using ActionScrpit. The goal is to match similar elements
 
 3 levels to choose from. 
 
-3 themese to choose from. 
+3 theme to choose from. 
 
 # What I Learned 
 
